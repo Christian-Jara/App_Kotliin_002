@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Kotliin_002</string>
+
+    <string name="edittext_hint_usuario">Ingrese el usuario....</string>
+    <string name="edittext_hint_clave">Ingrese la clave...</string>
+    <string name="button_text_ingresar">Ingresar</string>
+</resources>
